@@ -48,8 +48,6 @@ function render() {
 
 setInterval(render, 50);
 
-// reformula do https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=chatgpt.com um pouco simplificada para javascript, codigo não autoral, porem com alterações minhas
-
   const limao = document.getElementById("limao");
   let rotation = 0;
 
@@ -64,3 +62,4 @@ setInterval(render, 50);
     requestAnimationFrame(loop);
   }
   loop();
+
