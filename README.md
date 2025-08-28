@@ -26,7 +26,7 @@ Aqui compartilho um pouco sobre mim, meus projetos e meus estudos em programaç�
 ---
 
 ## 📫 Contato
-Se quiser trocar uma ideia ou colaborar em projetos:  
+Se quiser conversar ou colaborar em projetos:  
 - Email: **tezlimao@gmail.com** 
 - Instagram: [@tezlimao](https://instagram.com/tezlimao)  
 
